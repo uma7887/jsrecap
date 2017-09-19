@@ -1,0 +1,28 @@
+#DetailsButton {
+	float : left;
+	width : 25%;
+	background-color : skyblue;
+	height : 100%;
+}
+.DetailsButtonStyle {
+	display : inline;
+	padding-top : 2%;
+	padding-bottom : 2%;
+	margin-bottom : 2%;
+	margin-bottom : 2%;
+}
+#HeaderSection {
+	
+	color : blue;
+
+}
+#ContentDisplayer {
+	width : 75%;
+    float : left;
+	background-color : #e5e6e8;
+	height : 100%;
+}
+
+#addRowDisplyer {
+   color : red;
+}
